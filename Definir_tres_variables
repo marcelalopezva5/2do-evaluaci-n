@@ -1,0 +1,11 @@
+//Instrucciones básicas
+#include<iostream>//Librería de cabecera
+using namespace std; 
+
+int main(){
+     //definimos 3 variables
+     int x,y,z; 
+     cout<<“introduce tres variables: ”;
+     cin>> x >> y >> z;
+     return 0; 
+ }
